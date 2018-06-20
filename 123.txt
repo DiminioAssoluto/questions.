@@ -1,0 +1,7 @@
+123
+La funzione implementata dallo pseudo-codice di Figura 3:
+Può causare una crescita incontrollata dello stack
+Non usa ricorsione in coda
+*Nessuna delle altre risposte
+Causa sempre ricorsione infinita
+Non può essere implementata per via iterativa

@@ -1,0 +1,19 @@
+int x, y;
+void pippo(void) {
+    x = 8;
+    y = 4;
+}
+void pluto(void) {
+    int y;
+    pippo();
+    y = 3;
+}
+int topolino(void) {
+    int x, z;
+    x = 5;
+    y = 15;
+    z = x + y;
+    pluto();
+    return z - y - x;
+}
+

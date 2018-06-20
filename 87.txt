@@ -1,0 +1,7 @@
+87
+La memoria gestita dinamicamente:
+E' usata solo in linguaggi interpretati
+Non è mai strettamente necessaria, ma permette di ottenere migliori prestazioni
+*E' necessaria per implementare la ricorsione
+Nessuna delle altre risposte
+E' necessaria per implementare l'iterazione

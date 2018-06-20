@@ -1,0 +1,7 @@
+81
+La memoria gestita dinamicamente:
+E’ necessaria per implementare la ricorsione
+*Nessuna delle altre risposte
+Non è mai strettamente necessaria, ma permette di ottenere migliori prestazioni
+E’ necessaria solo per implementare macchine astratte per linguaggi funzionali
+E’ usata solo in linguaggi interpretati

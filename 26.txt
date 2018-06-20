@@ -1,0 +1,7 @@
+26
+Si consideri lo pseudo-codice di Figura 1. Qual è il valore di ritorno di f(1,r(1),1) se i parametri sono passati per nome?
+Non è possibile dirlo senza conoscere il tipo di scope (statico o dinamico) utilizzato
+Nessuna delle altre risposte
+1
+*Si ha ricorsione infinita
+0

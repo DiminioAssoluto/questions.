@@ -1,0 +1,20 @@
+int x, y, z;
+void minni(void) {
+    x = 4;
+    y = 8;
+}
+void paperino(void) {
+    int y;
+    minni();
+    y = 1;
+    z = 666;
+}
+int topolino(void) {
+    int x;
+    x = 5;
+    y = 15;
+    z = x + y;
+    paperino();
+    return z - y - x;
+}
+

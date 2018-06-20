@@ -1,0 +1,7 @@
+92
+Beta riducendo (λa.aab)((λa.aab)(λa.(λb.ba)c))
+Nessuna delle altre risposte
+*ccb(ccb)c
+λa.aab
+La riduzione non termina
+aab

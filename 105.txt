@@ -1,0 +1,7 @@
+105
+Beta-riducendo (λn.λm.λf.λx.(nf)((mf)x))(λf.λx.fx)(λf.λx.x) si ottiene:
+λf.λx.f(f(f(fx)))
+*λf.λx.fx
+x
+Nessuna delle altre risposte
+fx

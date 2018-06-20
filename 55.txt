@@ -1,0 +1,7 @@
+55
+Il concetto di variabile modicabile:
+*E' tipico del paradigma di programmazione imperativo
+Permette di evitare il fenomeno dell'aliasing
+Nessuna delle altre risposte
+E' l'unico concetto utilizzabile quando si parla di variabili
+E' imposto dall'architettura di Von Neumann (variabili non modificabili richiederebbero macchine astratte caratterizzate da memoria a sola lettura)

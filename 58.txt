@@ -1,0 +1,7 @@
+58
+La frammentazione interna causa:
+Il funzionamento non corretto di programmi che allocano memoria dinamicamente
+Un rallentamento rilevante nelle operazioni di allocazione della memoria
+Nessuna delle altre risposte
+*Uno spreco di memoria
+L'impossibilità di allocare grandi blocchi di memoria anche se la memoria libera totale è suffciente

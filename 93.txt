@@ -1,0 +1,7 @@
+93
+In presenza di variabili modificabili
+La valutazione del comando di assegnamento restituisce sempre un valore
+Nessuna delle altre risposte
+Il comando di assegnamento non ha effetti collaterali
+*Esistono un Ambiente che associa valori denotabili (tra cui le locazioni di memoria) a nomi ed una Memoria che associa locazioni di memoria a valori memorizzabili
+Non esistono valori denotabili

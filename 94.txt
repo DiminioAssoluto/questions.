@@ -1,0 +1,7 @@
+94
+Beta-riducendo ((λa.aaa)(λb.b))(λc.c) si ottiene:
+*λc.c
+La riduzione non termina
+aaa
+λx.xa
+Nessuna delle altre risposte

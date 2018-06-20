@@ -1,0 +1,7 @@
+90
+In caso di scope statico:
+Nessuna delle altre risposte
+Non è possibile annidare più blocchi di istruzioni
+I legami tra nomi ed entità possono essere determinati soltanto a termine di esecuzione
+*I legami tra nomi ed entità possono essere determinati semplicemente leggendo il testo di un programma
+Il valore assegnato a una variabile non può essere modificato

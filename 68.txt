@@ -1,0 +1,7 @@
+68
+Si consideri lo pseudo-codice di Figura 2. Qual’è il valore di ritorno di f1() se i parametri sono passati per valore?
+0
+2
+Dipende dal tipo di scope (statico o dinamico) utilizzato
+4
+*Nessuna delle altre risposte

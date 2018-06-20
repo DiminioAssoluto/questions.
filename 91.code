@@ -1,0 +1,7 @@
+int r(int x) {
+    return r(x-1);
+}
+int f(int a, int b, int c) {
+    if (c == 1) return a; else return b;
+}
+

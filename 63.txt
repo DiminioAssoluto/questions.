@@ -1,0 +1,7 @@
+63
+Beta-riducendo (λd.((λa.abc)(bc)))(λy.xyz) si ottiene:
+La riduzione non termina
+Nessuna delle altre risposte
+λb.bba
+λa.abc
+*bcbc

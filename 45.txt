@@ -1,0 +1,7 @@
+45
+Funzione implementata dallo pseudo-codice di Figura 2:
+Non usa ricorsione in coda
+Non può essere implementata per via iterativa
+Nessuna delle altre risposte
+Causa sempre ricorsione infinita
+*Usa ricorsione in coda
