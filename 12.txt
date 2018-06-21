@@ -1,4 +1,3 @@
-12
 I puntatori di catena dinamica contenuti in un record di attivazione:
 Collegano una lista di zone di memoria gestita dinamicamente
 Servono per accedere alle variabili dinamiche

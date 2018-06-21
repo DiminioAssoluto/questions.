@@ -1,4 +1,3 @@
-56
 Si consideri lo pseudo-codice di Figura 3. Qual è il valore di ritorno di f(1,r(1),1) se i parametri sono passati per nome?
 Nessuna delle altre risposte
 Non è possibile dirlo senza conoscere il tipo di scope (statico o dinamico) utilizzato

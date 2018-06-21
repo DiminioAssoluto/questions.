@@ -1,4 +1,3 @@
-86
 I puntatori di catena statica contenuti in un record di attivazione:
 Nessuna delle altre risposte
 Servono per accedere alle variabili statiche

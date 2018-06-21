@@ -1,4 +1,3 @@
-30
 Un compilatore da un linguaggio L ad un linguaggio LO è:
 *Nessuna delle altre risposte
 Una implementazione di macchine astratte indipendente dalla macchina fisica

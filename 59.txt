@@ -1,4 +1,3 @@
-59
 Beta-riducendo (λa.aaa)((λb.b)(λc.c)) si ottiene:
 Nessuna delle altre risposte
 aaa

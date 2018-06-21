@@ -1,4 +1,3 @@
-93
 In presenza di variabili modificabili
 La valutazione del comando di assegnamento restituisce sempre un valore
 Nessuna delle altre risposte

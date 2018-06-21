@@ -1,4 +1,3 @@
-52
 Un interprete di un linguaggio L scritto in un linguaggio LO è:
 Nessuna delle altre risposte
 L'implementazione di una macchina astratta scritta nel linguaggio LO, che capisce programmi scritti nel linguaggio L

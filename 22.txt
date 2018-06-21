@@ -1,4 +1,3 @@
-22
 L’ambiente non locale di un blocco di codice è:
 Nessuna delle altre risposte
 L’insieme dei valori che le variabili non locali possono assumere

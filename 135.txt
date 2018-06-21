@@ -1,4 +1,3 @@
-135
 Un compilatore da un linguaggio L ad un linguaggio LO è:
 L'implementazione di una macchina astratta scritta nel linguaggio LO, che capisce programmi scritti nel linguaggio L
 Una implementazione di macchine astratte indipendente dalla macchina fisica

@@ -1,4 +1,3 @@
-41
 L'ambiente (o environment) è:
 *L'insieme delle associazioni (nome, entità denotabile) esistenti in uno specifico punto del programma ed in uno specifico momento durante l'esecuzione di un programma
 L'insieme dei valori che una variabile assume durante l'esecuzione di un programma

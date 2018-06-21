@@ -1,4 +1,3 @@
-100
 Il concetto di variabile modificabile:
 E' imposto dall'architettura di Von Neumann (variabili non modificabili richeiderebbero macchine astratte caratterizzate da memoria a sola lettura)
 Nessuna delle altre risposte

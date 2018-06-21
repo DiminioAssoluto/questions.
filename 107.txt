@@ -1,4 +1,3 @@
-107
 Dato il frammento di programma (espresso in pseudo-codice) contenuto in Figura 3, qual'è il valore di ritorno di f1(), assumendo scope dinamico?
 *Nessuna delle altre risposte
 -1

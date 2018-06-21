@@ -1,4 +1,3 @@
-72
 Un garbage collector:
 Richiede un’implementazione complessa, usando la tecnica dei tombstone (pietre tombali)
 E’ implementabile solo in linguaggi di programmazione funzionali

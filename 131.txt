@@ -1,4 +1,3 @@
-131
 Dato il frammento di programma (espresso in pseudo-codice) contenuto in Figura 3, qual'è il valore di ritorno di topolino(), assumendo scope statico?
 -3
 0

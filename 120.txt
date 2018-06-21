@@ -1,4 +1,3 @@
-120
 In presenza di variabili modificabili:
 Nessuna delle altre risposte
 *Esistono un Ambiente che associa valori denotabili (fra cui le locazioni di memoria) a nomi ed una Memoria che associa locazioni di memoria a valori memorizzabili

@@ -1,4 +1,3 @@
-38
 L'allocazione dinamica della memoria:
 *Può essere fatta sia dallo stack che dallo heap
 Può essere fatta solo dallo heap

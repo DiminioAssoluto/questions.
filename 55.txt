@@ -1,4 +1,3 @@
-55
 Il concetto di variabile modicabile:
 *E' tipico del paradigma di programmazione imperativo
 Permette di evitare il fenomeno dell'aliasing

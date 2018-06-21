@@ -1,4 +1,3 @@
-8
 L’ambiente (o environment) è:
 Un insieme di associazioni (nome, valore) definite staticamente durante lo sviluppo di un programma
 Una lista di coppie (nome, tipo) che permette di accedere alle variabili di un programma

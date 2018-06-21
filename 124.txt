@@ -1,4 +1,3 @@
-124
 La frammentazione interna causa:
 L'impossibilità di allocare grandi blocchi di memoria anche se la memoria libera totale è sufficiente
 Un rallentamento rilevante nelle operazioni di allocazione della memoria

@@ -1,4 +1,3 @@
-21
 Un oggetto denotabile (intendendo per “oggetto” una generica entità che può essere una variabile, una funzione, etc...) è:
 Un “oggetto” che può essere memorizzato in una variabile
 Un “oggetto” per cui compare un binding nell’ambiente

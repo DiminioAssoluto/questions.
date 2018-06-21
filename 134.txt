@@ -1,4 +1,3 @@
-134
 Beta-riducendo (λn.λf.λx.f((nf)x))(λf.λx.f(f(f(fx)))) si ottiene:
 La riduzione non termina
 fx

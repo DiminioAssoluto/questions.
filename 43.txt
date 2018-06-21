@@ -1,4 +1,3 @@
-43
 La valutazione con corto circuito del predicato "A && B" (dove "&&" rappresenta un and logico):
 Crea un non-determinismo nell'ordine della valutazione di "A" e "B"
 Nessuna delle altre risposte

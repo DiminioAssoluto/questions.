@@ -1,4 +1,3 @@
-89
 La ricorsione in coda:
 Nessuna delle altre risposte
 Richiede di non ritornare mai direttamente il valore ritornato da una chiamata ricorsiva

@@ -1,4 +1,3 @@
-115
 In assenza di ambiente non locale:
 Per implementare funzioni definite ricorsivamente è necessario utilizzare un fixed point combinator
 Non si possono implementare algoritmi ricorsivi

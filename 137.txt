@@ -1,4 +1,3 @@
-137
 L'allocazione dinamica della memoria:
 *Può essere fatta sia dallo stack che dallo heap
 Nessuna delle altre risposte

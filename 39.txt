@@ -1,4 +1,3 @@
-39
 Se l'ambiente di una funzione non contiene il nome della funzione stessa:
 Nessuna delle altre risposte
 La funzione non può usare scope dinamico

@@ -1,4 +1,3 @@
-10
 La ricorsione in coda:
 Non è implementabile nei linguaggi imperativi
 *Nessuna delle altre risposte

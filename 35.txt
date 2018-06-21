@@ -1,4 +1,3 @@
-35
 Se l'ambiente di una funzione non contiene il nome della funzione stessa:
 Nessuna delle altre risposte
 *Non è possibile per la funzione invocarsi ricorsivamente

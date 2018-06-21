@@ -1,4 +1,3 @@
-113
 Il costrutto for dei linguaggi C, C++ e Java:
 *Non è un costrutto di iterazione determinata
 E' necessario a tali linguaggi per implementare qualsiasi tipo di algoritmo

@@ -1,4 +1,3 @@
-31
 I dangling pointer:
 Sono identificabili tramite tecniche di reference counting (contatore dei riferimenti)
 Sono un problema solo per il linguaggio Java

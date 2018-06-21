@@ -1,4 +1,3 @@
-49
 Dato il frammento di programma (espresso in pseudo-codice) contenuto in Figura 1, quanto vale la variabile globale c dopo aver eseguito topolino(), assumendo scope statico?
 14
 Nessuna delle altre risposte

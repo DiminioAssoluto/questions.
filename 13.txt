@@ -1,4 +1,3 @@
-13
 Nella sostituzione (λa.abc)[arrg/c]
 *E’ necessario applicare una Alfa-equivalenza per evitare una cattura di variabile
 Viene catturata la variabile c

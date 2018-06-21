@@ -1,4 +1,3 @@
-6
 In caso di scope statico:
 Non è possibile annidare più blocchi di istruzioni
 I legami fra nomi ed oggetto possono essere determinati solo a tempo di esecuzione

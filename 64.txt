@@ -1,4 +1,3 @@
-64
 Un interprete di un linguaggio L scritto in un linguaggio LO è:
 Un programma che trasforma un programma PL (espresso nel linguaggio L) in un programma PLO (espresso nel linguaggio LO) tale che per ogni input I si ha PL(I) = PLO(I)
 *Nessuna delle altre risposte

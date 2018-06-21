@@ -1,4 +1,3 @@
-18
 La tecnica del display:
 Nessuna delle altre risposte
 Permette di implementare facilmente lo scope dinamico

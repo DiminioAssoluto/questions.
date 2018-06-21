@@ -1,4 +1,3 @@
-102
 La funzione implementata dallo pseudo-codice di Figura 1:
 Può causare una crescita incontrollata dello stack
 Causa sempre ricorsione infinita

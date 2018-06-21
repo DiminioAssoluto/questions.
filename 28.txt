@@ -1,4 +1,3 @@
-28
 I puntatori di catena dinamica contenuti in un record di attivazione:
 *Nessuna delle altre risposte
 Non esistono "puntatori di catena dinamica" in un record di attivazione

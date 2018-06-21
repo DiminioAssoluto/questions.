@@ -1,4 +1,3 @@
-119
 Si può dire che una macchina astratta che capisce il linguaggio C non sia implementata in modo puramente compilativo perché:
 *Gli eseguibili generati da un compilatore C in genere non eseguono direttamente sulla macchina hardware, ma su una macchina astratta che include il runtime del linguaggio e le funzionalità del Sistema Operativo
 Il runtime del linguaggio C è comunque sempre interpretato

@@ -1,4 +1,3 @@
-98
 La memoria gestita dinamicamente:
 Non è mai strettamente necessaria, ma permette di ottenere migliori prestazioni
 E' necessaria per implementare l'iterazione

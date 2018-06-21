@@ -1,4 +1,3 @@
-48
 La ricorsione in coda:
 Permette di risolvere il problema della ricorsione infinita
 Richiede di non scrivere mai la chiamata ricorsiva come ultimo statement di una subroutine

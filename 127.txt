@@ -1,4 +1,3 @@
-127
 La memoria gestita staticamente:
 Nessuna delle altre risposte
 E' allocata esplicitamente dal programma a tempo di esecuzione, ma una volta allocata è staticamente legata al programma e non può essere liberata fino alla sua terminazione

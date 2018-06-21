@@ -1,4 +1,3 @@
-110
 La memoria gestita staticamente:
 *E' allocata dal compilatore prima dell'esecuzione del programma. Le entità allocate staticamente in memoria risiedono in una zona fissa di memoria durante tutta l'esecuzione del programma
 Nessuna delle altre risposte

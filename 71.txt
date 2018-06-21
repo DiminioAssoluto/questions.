@@ -1,4 +1,3 @@
-71
 La frammentazione interna causa:
 *Uno spreco di memoria
 Il funzionamento non corretto di programmi che allocano memoria dinamicamente

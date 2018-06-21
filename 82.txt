@@ -1,4 +1,3 @@
-82
 In caso di scope dinamico:
 Il valore assegnato ad una variabile non può essere modificato
 Non è possibile annidare più blocchi di istruzioni

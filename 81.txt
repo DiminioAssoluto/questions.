@@ -1,4 +1,3 @@
-81
 La memoria gestita dinamicamente:
 E’ necessaria per implementare la ricorsione
 *Nessuna delle altre risposte

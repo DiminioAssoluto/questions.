@@ -1,4 +1,3 @@
-97
 Un entità denotabile può avere un tempo di vita più lungo di quello delle associazioni (fra l'entità ed identificatori) che lo riferiscono:
 Nessuna delle altre risposte
 *Se l'entità è allocata dinamicamente dallo heap in una subroutine

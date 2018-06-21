@@ -1,4 +1,3 @@
-112
 Se gli array sono memorizzati per colonne e char a[100][100] è un array multidimensionale di caratteri con a[0][0] che ha indirizzo 0x1100, qual'è l'indirizzo di a[5][10]?:
 0x21FE
 Nessuna delle altre risposte

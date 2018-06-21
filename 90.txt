@@ -1,4 +1,3 @@
-90
 In caso di scope statico:
 Nessuna delle altre risposte
 Non è possibile annidare più blocchi di istruzioni

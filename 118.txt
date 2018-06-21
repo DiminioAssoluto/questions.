@@ -1,4 +1,3 @@
-118
 Beta-riducendo (λa.aaa)((λb.b)(λc.c)) si ottiene:
 La riduzione non termina
 λx.xa

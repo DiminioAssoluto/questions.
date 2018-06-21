@@ -1,4 +1,3 @@
-60
 Un garbage collector:
 *Può essere implementato tramite la tecnica detta “mark and sweep”, che riesce sempre ad identificare tutta la memoria allocata dinamicamente ma non più utilizzata
 Richiede un’implementazione complessa, usando la tecnica dei tombstone (pietre tombali)

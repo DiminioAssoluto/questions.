@@ -1,4 +1,3 @@
-122
 L'allocazione dinamica della memoria:
 E' sempre effettuata solo dal compilatore o dall'interprete
 Può essere fatta solo dallo heap
