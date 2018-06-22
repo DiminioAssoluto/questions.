@@ -2,5 +2,5 @@ Si consideri lo pseudo-codice. Quale è il valore di ritorno di pluto() se i par
 4
 6
 Dipende dal tipo di scope (statico o dinamico) utilizzato
-*Nessuna delle altre risposte
-10
+Nessuna delle altre risposte
+*10
