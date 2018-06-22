@@ -1,4 +1,4 @@
-Se gli array sono memorizzati per colonne e int a[25][25] è un un array multidimensionale di interi (si assuma che un intero sia memorizzato in 4 byte) con a[0][0] che ha indirizzo 0x1000, Qual è l’indirizzo di a[5][10]?:
+Se gli array sono memorizzati per colonne e int a[25][25] è un un array multidimensionale di interi (si assuma che un intero sia memorizzato in 4 byte) con a[0][0] che ha indirizzo 0x1000, qual è l’indirizzo di a[5][10]?:
 0x11FE
 Nessuna delle altre risposte
 0x100F
