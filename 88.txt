@@ -1,4 +1,4 @@
-Se gli array sono memorizzati per colonne ed int a[100][100] è un array multidimensionale di interi, con a[0][0] che ha indirizzo 0x5000, Qual è l'indirizzo di a[5][10]?
+Se gli array sono memorizzati per colonne ed int a[100][100] è un array multidimensionale di interi, con a[0][0] che ha indirizzo 0x5000, qual è l'indirizzo di a[5][10]?
 *Nessuna delle altre risposte
 0x53ED
 0x500F
