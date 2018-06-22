@@ -1,4 +1,4 @@
-Se gli array sono memorizzati per colonne ed short int a[100][100] è un array multidimensionale di interi corti (si assuma che la dimensione di uno short int sia 2 byte) con a[0][0] che ha indirizzo 0x4100, Qual è l’indirizzo di a[5][10]?:
+Se gli array sono memorizzati per colonne ed short int a[100][100] è un array multidimensionale di interi corti (si assuma che la dimensione di uno short int sia 2 byte) con a[0][0] che ha indirizzo 0x4100, qual è l’indirizzo di a[5][10]?:
 0x41FE
 0x500F
 0x47DA
