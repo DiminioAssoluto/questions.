@@ -1,4 +1,4 @@
-Si consideri lo pseudo-codice. Quale è il valore di ritorno di f(1, r(1), 1) se i parametri sono passati per valore?
+Si consideri lo pseudo-codice. Qual è il valore di ritorno di f(1,r(1),1) se i parametri sono passati per valore?
 *Si ha ricorsione infinita
 1
 Nessuna delle altre risposte

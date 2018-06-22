@@ -1,4 +1,4 @@
-Si consideri lo pseudo-codice di Figura 2. Qual'è il valore di ritorno di pluto() se i parametri sono passati per valore?
+Si consideri lo pseudo-codice. Qual è il valore di ritorno di pluto() se i parametri sono passati per valore?
 10
 Non è possibile passare c + 1 per valore
 Dipende dal tipo di scope (statico o dinamico) utilizzato

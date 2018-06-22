@@ -1,4 +1,4 @@
-Si consideri lo pseudo-codice di Figura 1. Qual è il valore di ritorno di f3(10,f4(0)) se i parametri sono passati per valore?
+Si consideri lo pseudo-codice. Qual è il valore di ritorno di f3(10,f4(0)) se i parametri sono passati per valore?
 10
 Non è possibile dirlo senza conoscere il tipo di scope (statico o dinamico) utilizzato
 Non è possibile passare f4(0) per valore

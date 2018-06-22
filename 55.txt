@@ -1,4 +1,4 @@
-Il concetto di variabile modicabile:
+Il concetto di variabile modifcabile:
 *E' tipico del paradigma di programmazione imperativo
 Permette di evitare il fenomeno dell'aliasing
 Nessuna delle altre risposte
