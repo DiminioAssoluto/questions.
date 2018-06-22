@@ -1,4 +1,4 @@
-La funzione implementata dallo pseudo-codice di Figura 3:
+La funzione implementata dallo pseudo-codice:
 Può causare una crescita incontrollata dello stack
 Non usa ricorsione in coda
 *Nessuna delle altre risposte

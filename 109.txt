@@ -1,4 +1,4 @@
-Si consideri lo pseudo-codice di Figura 5. Qual'è il valore di ritorno di pluto() se i parametri sono passati per nome?
+Si consideri lo pseudo-codice. Qual è il valore di ritorno di pluto() se i parametri sono passati per nome?
 *10
 Nessuna delle altre risposte
 6

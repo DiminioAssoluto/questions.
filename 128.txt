@@ -1,4 +1,4 @@
-Dato il frammento di programma (espresso in pseudo-codice) della Figura 1, quanto vale la variabile globale c dopo aver eseguito topolino(), assumendo scope dinamico?
+Dato il frammento di programma (espresso in pseudo-codice), quanto vale la variabile globale c dopo aver eseguito topolino(), assumendo scope dinamico?
 Nessuna delle altre risposte
 Non è possibile dirlo
 6
