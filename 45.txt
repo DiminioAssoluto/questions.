@@ -1,4 +1,4 @@
-Funzione implementata dallo pseudo-codice di Figura 2:
+Funzione implementata dallo pseudo-codice:
 Non usa ricorsione in coda
 Non può essere implementata per via iterativa
 Nessuna delle altre risposte

@@ -1,4 +1,4 @@
-Una Macchina Astratta ML: LO è:
+Una Macchina Astratta ML (LO) è:
 E’ un modo per descrivere un interprete
 Nessuna delle altre risposte
 E’ implementabile solo basandosi sull’architettura di Von Neumann
