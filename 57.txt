@@ -1,6 +1,6 @@
-Si consideri lo pseudo-codice. Qual è il valore di ritorno di pluto() se i parametri sono passati per riferimento?
-*Non è possibile passare c + 1 per riferimento
-Dipende dal tipo di scope (statico o dinamico) utilizzato
-6
+In presenza di variabili modificabili:
 Nessuna delle altre risposte
-10
+Non esistono valori denotabili
+*Esistono un Ambiente che associa valori denotabili (fra cui le locazioni di memoria) a nomi ed una Memoria che associa locazioni di memoria a valori memorizzabili
+Il comando di assegnamento non ha effetti collaterali
+La valutazione del comando di assegnamento restituisce sempre un valore
