@@ -1,4 +1,4 @@
-Il parametro di parametri per nome:
+Il passaggio di parametri per nome:
 Permette di passare valori solo dal chiamante al chiamato (e non viceversa)
 Nessuna delle altre risposte
 *E’ implementabile passando una chiusura come parametro
