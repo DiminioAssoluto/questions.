@@ -1,4 +1,4 @@
-Se gli array sono memorizzati per righe ed int a[100][100] è un array multi-dimensionale di interi (si assuma che la dimensione di un intero sia 4 byte) con a[0][0] che ha indirizzo 0x5000, Qual è l'indirizzo di a[5][10]?:
+Se gli array sono memorizzati per righe ed int a[100][100] è un array multi-dimensionale di interi (si assuma che la dimensione di un intero sia 4 byte) con a[0][0] che ha indirizzo 0x5000, qual è l'indirizzo di a[5][10]?:
 0x5510
 Nessuna delle altre risposte
 0x51FE
