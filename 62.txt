@@ -1,6 +1,0 @@
-I record di attivazione:
-Nessuna delle altre risposte
-Sono necessari solo in presenza di funzioni di ordine superiore
-Sono allocati solo nello heap
-Devono essere esplicitamente allocati e deallocati dal codice del programma che li usa
-*Possono essere allocati sia sullo stack che sullo heap (in caso, per esempio, di funzioni di ordine superiore)

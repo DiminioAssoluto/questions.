@@ -1,6 +1,0 @@
-Beta-riducendo (λa.aaa)((λb.b)(λc.c)) si ottiene:
-La riduzione non termina
-λx.xa
-Nessuna delle altre risposte
-*λa.a
-aaa

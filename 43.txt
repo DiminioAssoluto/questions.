@@ -1,6 +1,0 @@
-La valutazione con corto circuito del predicato "A && B" (dove "&&" rappresenta un "AND" logico):
-Crea un non-determinismo nell'ordine della valutazione di "A" e "B"
-Nessuna delle altre risposte
-Stabilisce che "A" e "B" devono essere valutati in parallelo
-*Stabilisce che se "A" è falso allora "B" non viene valutato
-Stabilisce che se "B" è vero allora "A" non viene valutato

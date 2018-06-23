@@ -1,6 +1,0 @@
-Dato il frammento di programma (espresso in pseudo-codice), quanto vale la variabile globale c dopo aver eseguito topolino(), assumendo scope statico?
-14
-Nessuna delle altre risposte
-*6
-3
-Non è possibile dirlo

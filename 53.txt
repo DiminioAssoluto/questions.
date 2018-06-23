@@ -1,6 +1,0 @@
-Beta-riducendo (λa.aab)((λa.aab)(λa.(λb.ba)c)) si ottiene:
-La riduzione non termina
-ccb(ccb)c
-aab
-λa:aab
-*Nessuna delle altre risposte

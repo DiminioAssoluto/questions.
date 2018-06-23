@@ -1,9 +1,0 @@
-int c = 2;
-int pippo(int a) {
-    c = c * 2;
-    return a * 2;
-}
-int pluto(void) {
-    return (pippo(c + 1));
-}
-

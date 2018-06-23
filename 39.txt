@@ -1,6 +1,0 @@
-Se l'ambiente di una funzione non contiene il nome della funzione stessa:
-Nessuna delle altre risposte
-La funzione non può usare scope dinamico
-La funzione non può usare scope statico
-*Non è possibile per la funzione invocarsi ricorsivamente
-Non ci sono particolari conseguenze

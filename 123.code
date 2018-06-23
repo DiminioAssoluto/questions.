@@ -1,5 +1,0 @@
-int mistero(int a, int b) {
-    if (b == 0) return a;
-    return mistero(a / 2, b - 1);
-}
-
