@@ -1,0 +1,6 @@
+Si consideri lo pseudo-codice. Qual è il valore di ritorno di f(1,r(1),1) se i parametri sono passati per valore?
+Nessuna delle altre risposte
+*Si ha ricorsione infinita
+1
+Non è possibile dirlo senza conoscere il tipo di scope (statico o dinamico) utilizzato
+0
