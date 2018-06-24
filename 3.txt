@@ -1,6 +1,6 @@
-L’allocazione dinamica della memoria:
+Se gli array sono memorizzati per righe e int a[100][100] è un array multidimensionale di interi (si assuma che la dimensione di un intero sia 4 byte) con a[0][0] che ha indirizzo 0x5000, qual è l'indirizzo di a [5][10]?
+*0x57F8
 Nessuna delle altre risposte
-E’ sempre effettuata solo dal compilatore o dall’interprete
-Può essere fatta solo dallo heap
-Può essere fatta solo dallo stack
-*Può essere fatta sia dallo stack che dallo heap
+0x53ED
+0x5510
+0x51FE

@@ -1,0 +1,6 @@
+Beta-riducendo (λa.((aλb.λc.c)λd.λe.d))(λf.λg.g) si ottiene:
+Nessuna delle altre risposte
+*λb.λc.b
+b
+λb.λc.c
+La riduzione non termina

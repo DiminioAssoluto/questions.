@@ -1,6 +1,6 @@
-Funzione implementata dallo pseudo-codice:
-Non usa ricorsione in coda
-Non può essere implementata per via iterativa
+La memoria gestita staticamente:
+E’ allocata esplicitamente dal programma a tempo di esecuzione, ma una volta allocata è staticamente legata al programma e non può essere liberata fino alla sua terminazione
+E’ allocata prima dell’esecuzione del programma. Le entità allocate staticamente possono essere deallocate durante l’esecuzione del programma, per liberare memoria
+*E’ allocata dal compilatore prima dell’esecuzione del programma. Le entità allocate staticamente in memoria risiedono in una zona fissa di memoria durante tutta l’esecuzione del programma
+E’ una memoria a sola lettura
 Nessuna delle altre risposte
-Causa sempre ricorsione infinita
-*Usa ricorsione in coda

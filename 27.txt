@@ -1,6 +1,6 @@
-Dato il frammento di programma (espresso in pseudo-codice), quanto vale la variabile globale c dopo aver eseguito topolino(), assumendo scope dinamico?
-*14
-3
-Non è possibile dirlo
-6
+Beta-riducendo (λa.((aλb.λc.c)λd.λe.d))(λf.λg.f) si ottiene:
+*λb.λc.c
 Nessuna delle altre risposte
+La riduzione non termina
+c
+λb.λc.b

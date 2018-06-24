@@ -1,6 +1,6 @@
-Beta-riducendo (λd.((λa.abc)(bc)))(λy.xyz) si ottiene:
-La riduzione non termina
+Un entità denotabile è
 Nessuna delle altre risposte
-λb.bba
-λa.abc
-*bcbc
+Un entità che può essere generata come risultato da un espressione complessa o da una Funzione
+*Una generica entità a cui può essere dato un nome
+Un'entità che ancora non compare nell'ambiente
+Un'entità che può essere memorizzata

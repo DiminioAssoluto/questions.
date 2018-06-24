@@ -1,7 +1,6 @@
-Beta-riducendo (λn.λf.λx.f((nf)x))(λf.λx.f(f(f(fx)))) si ottiene: 
+Un entità denotabile può avere un tempo di vita più lungo di quello delle associazioni (fra l'entità ed identificatori) che lo riferiscono:
 Nessuna delle altre risposte
-L’espressione è irriducibile
-La riduzione non termina
-λf.λx.fffffx
-fx
-*λf.λx.f(f(f(f(fx))))
+*Se l'entità è allocata dinamicamente dallo heap in una subroutine
+Mai
+Se l'entità è allocata dinamicamente dallo stack in una subroutine
+Se si usa scope dinamico

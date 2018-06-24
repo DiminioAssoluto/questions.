@@ -1,6 +1,6 @@
-I puntatori di catena statica contenuti in un record di attivazione:
-Nessuna delle altre risposte
-Servono per accedere alle variabili statiche
-Devono essere esplicitamente allocati e deallocati dal codice del programma che li usa
-*Servono per identificare la zona di memoria in cui è memorizzata una variabile in caso di scope statico
-Non esistono puntatori di catena statica in un record d'attivazione
+La funzione implementata dallo pseudo-codice:
+Può causare una crescita incontrollata dello stack
+Causa sempre ricorsione infinita
+*Nessuna delle altre risposte
+Non può essere implementata per via iterativa
+Non usa ricorsione in coda

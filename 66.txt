@@ -1,6 +1,6 @@
-Si consideri lo pseudo-codice. Qual è il valore di ritorno di f3(10,f4(0)) se i parametri sono passati per valore?
-10
-Non è possibile dirlo senza conoscere il tipo di scope (statico o dinamico) utilizzato
-Non è possibile passare f4(0) per valore
+Se gli array sono memorizzati per colonne ed int a[100][100] è un array multidimensionale di interi, con a[0][0] che ha indirizzo 0x5000, qual è l'indirizzo di a[5][10]?
 *Nessuna delle altre risposte
-1
+0x53ED
+0x500F
+0x41FE
+0x5510

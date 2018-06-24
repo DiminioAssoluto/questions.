@@ -1,6 +1,6 @@
-La memoria gestita dinamicamente:
-E' usata solo in linguaggi interpretati
-Non è mai strettamente necessaria, ma permette di ottenere migliori prestazioni
-*E' necessaria per implementare la ricorsione
+Dato il frammento di programma (espresso in pseudo-codice), qual è il valore di ritorno di topolino(), assumendo scope statico?
 Nessuna delle altre risposte
-E' necessaria per implementare l'iterazione
+Non è possibile dirlo
+0
+-3
+*11

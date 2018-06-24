@@ -1,6 +1,6 @@
-Se gli array sono memorizzati per righe e char a[100][100][100] è un un array multidimensionale di caratteri con a[0][0] che ha indirizzo 0x1000, qual è l’indirizzo di a[5][5][10]?:
+Il fenomeno della cattura di variabili:
 Nessuna delle altre risposte
-0x51510
-0xC54E
-*0xD54E
-0x50510
+Non può essere evitato in alcun modo
+*Fa si che dopo una sostituzione una variabile libera diventi legata (per esempio da un’astrazione λx.)
+Comporta la “sparizione” di variabili libere durante un’astrazione funzione
+E’ dovuto all’assenza di un ambiente non locale

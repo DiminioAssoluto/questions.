@@ -1,6 +1,6 @@
-Un compilatore da un linguaggio L ad un linguaggio LO è:
-*Un programma che trasforma un programma PL (espresso nel linguaggio L) in un programma PLO (espresso nel linguaggio LO) tale che per ogni input I si ha PL(I) = PLO(I)
-Nessuna delle altre risposte
-Un programma scritto nel linguaggio LO che riceve come ingresso un programma PL (espresso nel linguaggio L) ed il suo input I generando lo stesso output che genera PL con input I
-L’implementazione di una macchina astratta scritta nel linguaggio LO, che capisce programmi scritti nel linguaggio L
-Una implementazione di macchine astratte indipendente dalla macchina fisica
+La ricorsione in coda:
+Non è implementabile nei linguaggi imperativi
+*Nessuna delle altre risposte
+Richiede di non scrivere mai la chiamata ricorsiva come ultimo statement di una subroutine
+Richiede di non ritornare mai direttamente il valore ritornato da una chiamata ricorsiva
+Permette di risolvere il problema della ricorsione infinita
