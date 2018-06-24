@@ -1,6 +1,6 @@
-Nella sostituzione (λa.abc)[arrg/c]
-*E’ necessario applicare una Alfa-equivalenza per evitare una cattura di variabile
-Viene catturata la variabile c
-Si rischia di catturare la variabile “a” ed è necessario applicare Beta-equivalenza per risolvere in problema
-Non c’è alcuna cattura di variabile
+Il concetto di variabile modificabile:
+E' l'unico concetto utilizzabile quando si parla di variabili
+E' imposto dall'architettura di Von Neumann (variabili non modificabili richiederebbero macchine astratte caratterizzate da memoria a sola lettura)
 Nessuna delle altre risposte
+*E' tipico del paradigma di programmazione imperativo
+Permette di evitare il fenomeno dell'aliasing

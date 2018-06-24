@@ -1,6 +1,6 @@
-In caso di scope dinamico:
-Il valore assegnato ad una variabile non può essere modificato
-Non è possibile annidare più blocchi di istruzioni
+Dato il frammento di programma (espresso in pseudo-codice), qual è il valore di ritorno di f1(), assumendo scope dinamico?
+Non è possibile dirlo
+5
+*0
 Nessuna delle altre risposte
-*I legami fra nomi ed oggetto possono essere determinati solo a tempo di esecuzione
-I legami fra nomi ed oggetto possono essere determinati semplicemente leggendo il testo di un programma
+-5

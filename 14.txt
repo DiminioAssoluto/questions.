@@ -1,6 +1,6 @@
-Il fenomeno della cattura di variabili:
+Nella sostituzione (λa.abc)[arrg/c]
+*E’ necessario applicare una Alfa-equivalenza per evitare una cattura di variabile
+Viene catturata la variabile c
+Si rischia di catturare la variabile “a” ed è necessario applicare Beta-equivalenza per risolvere in problema
+Non c’è alcuna cattura di variabile
 Nessuna delle altre risposte
-Non può essere evitato in alcun modo
-*Fa si che dopo una sostituzione una variabile libera diventi legata (per esempio da un’astrazione λx.)
-Comporta la “sparizione” di variabili libere durante un’astrazione funzione
-E’ dovuto all’assenza di un ambiente non locale

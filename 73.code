@@ -1,12 +1,9 @@
-int b = 666;
-int pippo(int x) {
-    x = 666; b = 1;
-    return x / 2;
+int c = 2;
+int pippo(int a) {
+    c = c + 2;
+    return a * 2;
 }
 int pluto(void) {
-    int a, c;
-    a = b / 333;
-    c = pippo(a);
-    return a + c;
+    return pippo(c + 1);
 }
 

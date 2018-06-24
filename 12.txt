@@ -1,6 +1,6 @@
-I puntatori di catena dinamica contenuti in un record di attivazione:
-Collegano una lista di zone di memoria gestita dinamicamente
-Servono per accedere alle variabili dinamiche
-Non esistono “puntatori di catena dinamica” in un record di attivazione
-Nessuna delle altre risposte
-*Permettono, a partire da un RdA, di trovare il RdA precedente sullo stack
+Se gli array sono memorizzati per colonne ed int a[100][100] è un array multidimensionale di interi (si assuma che la dimensione di un intero sia 4 byte)con a[0][0] che ha indirizzo 0x5000, qual è l'indirizzo di a[5][10]?:
+0x5510
+0x53ED
+*Nessuna delle altre risposte
+0x500F
+0x41FE

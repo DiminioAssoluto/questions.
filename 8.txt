@@ -1,6 +1,6 @@
-L’ambiente (o environment) è:
-Un insieme di associazioni (nome, valore) definite staticamente durante lo sviluppo di un programma
-Una lista di coppie (nome, tipo) che permette di accedere alle variabili di un programma
+Un'entità esprimibile è:
 Nessuna delle altre risposte
-L’insieme dei valori che una variabile assume durante l’esecuzione di un programma
-*L’insieme delle associazioni (nome, oggetto denotabile) esistenti in uno specifico punto del programma ed in uno specifico momento durante l’esecuzione di un programma
+*Un'entià che può essere generata come risultato da un'espressione complessa o da una funzione
+Un'entità che ancora non compare nell'ambiente
+Un'entità che può essere memorizzata
+Una generica entità a cui può essere dato un nome

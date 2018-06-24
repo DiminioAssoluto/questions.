@@ -1,6 +1,6 @@
-Un compilatore da un linguaggio L ad un linguaggio LO è:
-*Nessuna delle altre risposte
-Una implementazione di macchine astratte indipendente dalla macchina fisica
-Un programma che trasforma un programma PLO (espresso nel linguaggio LO) in un programma PL (espresso nel linguaggio L) tale che per ogni input I si ha PL(I) = PLO(I)
-L'implementazione di una macchina astratta scritta nel linguaggio LO, che capisce programmi scritti nel linguaggio L
-Un programma scritto nel linguaggio LO che riceve come ingresso un programma PL (espresso nel linguaggio L) ed il suo input I generando lo stesso output che genera PL con input I
+L’allocazione dinamica della memoria:
+Nessuna delle altre risposte
+E’ sempre effettuata solo dal compilatore o dall’interprete
+Può essere fatta solo dallo heap
+Può essere fatta solo dallo stack
+*Può essere fatta sia dallo stack che dallo heap

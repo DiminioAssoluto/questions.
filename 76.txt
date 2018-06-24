@@ -1,7 +1,6 @@
-Beta-riducendo (λn.λm.λf.λx.(nf)((mf)x))(λf.λx.fx)(λf.λx.x) si ottiene:
+Dato il frammento di programma (espresso in pseudo-codice), quanto vale la variabile globale c dopo aver eseguito topolino(), assumendo scope dinamico?
+*14
+3
+Non è possibile dirlo
+6
 Nessuna delle altre risposte
-x
-λf.λx.ffffffx
-*λf.λx.fx
-fx
-λf.λx.ffffx

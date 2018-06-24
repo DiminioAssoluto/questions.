@@ -1,6 +1,6 @@
-Se gli array sono memorizzati per righe e char a[100][100] è un array multidimensionale di caratteri con a[0][0] che ha indirizzo 0x2000, qual è l’indirizzo di a[5][10]?:
-0x200F
-*0x21FE
+Si consideri lo pseudo-codice. Qual è il valore di ritorno di f(1,r(1),1) se i parametri sono passati per nome?
+Non è possibile dirlo senza conoscere il tipo di scope (statico o dinamico) utilizzato
 Nessuna delle altre risposte
-0x23ED
-0x2510
+*1
+Si ha ricorsione infinita
+0

@@ -1,6 +1,6 @@
-Dato il frammento di programma (espresso in pseudo-codice), qual è il valore di ritorno di f1(), assumendo scope dinamico?
-Non è possibile dirlo
-5
-*0
+Beta-riducendo (λd.((λa.abc)(bc)))(λy.xyz) si ottiene:
+La riduzione non termina
+*bcbc
 Nessuna delle altre risposte
--5
+λa.abc
+λb.bba

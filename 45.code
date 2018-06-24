@@ -1,6 +1,0 @@
-int somma(int a, int b) {
-    if (a == 0)
-        return b;
-    return somma(a - 1, b + 1);
-}
-

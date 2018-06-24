@@ -1,6 +1,6 @@
-La ricorsione in coda:
-Non è implementabile nei linguaggi imperativi
-*Nessuna delle altre risposte
-Richiede di non scrivere mai la chiamata ricorsiva come ultimo statement di una subroutine
-Richiede di non ritornare mai direttamente il valore ritornato da una chiamata ricorsiva
-Permette di risolvere il problema della ricorsione infinita
+I puntatori di catena dinamica contenuti in un record di attivazione:
+Collegano una lista di zone di memoria gestita dinamicamente
+Servono per accedere alle variabili dinamiche
+Non esistono “puntatori di catena dinamica” in un record di attivazione
+Nessuna delle altre risposte
+*Permettono, a partire da un RdA, di trovare il RdA precedente sullo stack

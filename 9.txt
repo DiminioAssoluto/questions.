@@ -1,6 +1,6 @@
-Dato il frammento di programma (espresso in pseudo-codice), quanto vale la variabile globale c dopo aver eseguito topolino(), assumendo scope statico?
-Nessuna delle altre risposte
-*6
-Non è possibile dirlo
-14
-3
+In assenza di ambiente non locale:
+Per implementare funzioni definite ricorsivamente è necessario utilizzare un fixed point combinator
+Non si possono implementare algoritmi ricorsivi
+*Nessuna delle altre risposte
+Non si possono implementare algoritmi iterativi o ricorsivi
+Non si possono implementare algoritmi iterativi

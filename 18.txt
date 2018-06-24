@@ -1,6 +1,6 @@
-La tecnica del display:
+Se gli array sono memorizzati per righe e char a[100][100][100] è un un array multidimensionale di caratteri con a[0][0] che ha indirizzo 0x1000, qual è l’indirizzo di a[5][5][10]?:
 Nessuna delle altre risposte
-Permette di implementare facilmente lo scope dinamico
-*Permette di ridurre il costo derivante dalla scansione della catena statica quando di implementa lo scope statico
-Permette di visualizzare le zone di memoria allocata dinamicamente
-Permette di implementare le regole di scope statico senza generare frammentazione della memoria
+0x51510
+0xC54E
+*0xD54E
+0x50510
