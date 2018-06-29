@@ -1,6 +1,6 @@
 La funzione implementata dallo pseudo-codice:
-Può causare una crescita incontrollata dello stack
+*Può causare una crescita incontrollata dello stack
 Causa sempre ricorsione infinita
-*Nessuna delle altre risposte
+Nessuna delle altre risposte
 Non può essere implementata per via iterativa
 Non usa ricorsione in coda
