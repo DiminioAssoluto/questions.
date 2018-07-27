@@ -1,6 +1,0 @@
-Beta-riducendo (λx.xy)(λz.zx)(λz.zx) si ottiene:
-Nessuna delle altre risposte
-xyz
-(λx.xy)yx
-*yx(λz.zx)
-La riduzione non termina
