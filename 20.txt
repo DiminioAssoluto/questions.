@@ -1,6 +1,0 @@
-La tecnica del display:
-Nessuna delle altre risposte
-Permette di implementare facilmente lo scope dinamico
-*Permette di ridurre il costo derivante dalla scansione della catena statica quando di implementa lo scope statico
-Permette di visualizzare le zone di memoria allocata dinamicamente
-Permette di implementare le regole di scope statico senza generare frammentazione della memoria
